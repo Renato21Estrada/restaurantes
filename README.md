@@ -1,27 +1,16 @@
-# Booking
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.4.
+Aqui se consume los restaurantes y se muestra en pantalla.
+![image](https://user-images.githubusercontent.com/52018528/115445517-91be2700-a1db-11eb-81fb-11b84eedd240.png)
 
-## Development server
+Al darle click al boton de Reservar , se abre otra ventana donde pondremos nuestros datos
+![Captura de Reserva Restaurante](https://user-images.githubusercontent.com/52018528/115445627-b9ad8a80-a1db-11eb-9484-cd05ecfcc2e8.png)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Aqui es donde se presiona el boton "Reservar" o Reservar y Pagar
+![Captura reserva hecha](https://user-images.githubusercontent.com/52018528/115445631-bb774e00-a1db-11eb-9dc8-e19a898dabbe.png)
 
-## Code scaffolding
+En este ultimo , cuando reservas , cancelas o Pagas una reservacion te envia un correo por email.
+![Captura EMAIL](https://user-images.githubusercontent.com/52018528/115445635-bd411180-a1db-11eb-92bd-04b20eafd690.png)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
